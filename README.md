@@ -1,0 +1,2 @@
+# copypath
+copies the folders
